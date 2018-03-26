@@ -1,2 +1,2 @@
 # knowafrica
-A small project that showcases places in Africa
+A small project that showcase places in Africa
