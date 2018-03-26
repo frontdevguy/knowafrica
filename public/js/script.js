@@ -5,12 +5,12 @@ var $story = {
         "story_title": "The Rock Restaurant, ZANZIBAR"
     },
     "1": {
-        "url_image": "./images/kilo.jpg",
+        "url_image": "./images/kilo_copy.jpg",
         "story": "Located in <strong>Tanzania</strong>, It is the highest mountain in Africa, about 4,900 metres (16,100 ft) from its base to 5,895 metres (19,341 ft) above sea level The first people known to have reached the summit of the mountain were Hans Meyer and Ludwig Purtscheller in 1889. The mountain is part of the Kilimanjaro National Park and is a major climbing destination.",
         "story_title": "Mount Kilimanjaro"
     },
     "2": {
-        "url_image": "./images/kraailbaaihouseboats.jpg",
+        "url_image": "./images/kraailbaaihouseboats_copy.jpg",
         "story": "Located in <strong>Southern Africa</strong>. This is where Eve’s Footprint was discovered on the nearby shore, thought to be from 117 000 years ago, the oldest known footprint of modern mankind; where naturalist, sailor and writer, Frank Wightman, sought refuge for many years on his yacht Wylo, described by author Lawrence Green as a giant in hiding; where local traditional fishermen still ply their trade, and fresh harders on the coals are a delicacy",
         "story_title": "Kraailbaai Houseboats"
     },
@@ -20,23 +20,28 @@ var $story = {
         "story_title": "The Ruins of Sabratha, Libya"
     },
     "4": {
-        "url_image": "./images/sahara.jpg",
+        "url_image": "./images/sahara_copy.jpg",
         "story": "Located in <strong>North Africa</strong>. Its surface area of 9,400,000 square kilometers (3,630,000 square miles) including the Libyan Desert and covers about 1/4 of the African continent.It is comparable to the respective land areas of China or the United States.The Sahara used to be a lush region with many plants and animals.It began to dry up around 4000 years ago due to a gradual change in the tilt of the Earth’s orbit.Earth’s obliquity oscillates between 22.1 and 24.5 degrees on a 41,000-year cycle. It is currently 23.44 degrees and decreasing.",
         "story_title": "Sahara Desert"
     },
     "5": {
-        "url_image": "./images/khawta.jpeg",
+        "url_image": "./images/khawta_copy.jpg",
         "story": "A Southern African ceremony, it is practiced by several tribes and is how a young boy proves his manhood. When they are of age, boys are sent to spend several days or weeks in a circumcision lodge during winter, where they’re put through rigorous and often dangerous tests and rituals such as continuous dancing until exhaustion, and circumcision.",
         "story_title": " Khweta Ceremony",
         "location": 0
     },
     "6": {
-        "url_image": "./images/nelson-mandela.jpg",
+        "url_image": "./images/nelson-mandela_copy.jpg",
         "story": "Nelson Rolihlahla Mandela was a South African anti-apartheid revolutionary, political leader, and philanthropist, who served as President of South Africa from 1994 to 1999. In 1988 he was placed under house arrest on the grounds of a minimum-security correctional facility. Mandela was released On February 11, 1990 on order of newly elected president F. W. de Klerk<br>Nelson Mandela died on December 5, 2013 from a recurring lung infection.<br><strong><em>Quote:</em> I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.</strong>",
         "story_title": "Nelson Mandela"
     },
     "7": {
-        "url_image": "./images/nelson-mandela.jpg",
+        "url_image": "./images/nelson-mandela_copy.jpg",
+        "story": "Nelson Rolihlahla Mandela was a South African anti-apartheid revolutionary, political leader, and philanthropist, who served as President of South Africa from 1994 to 1999. In 1988 he was placed under house arrest on the grounds of a minimum-security correctional facility. Mandela was released On February 11, 1990 on order of newly elected president F. W. de Klerk<br>Nelson Mandela died on December 5, 2013 from a recurring lung infection.<br><strong><em>Quote:</em> I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.</strong>",
+        "story_title": "Nelson Mandela"
+    },
+    "8": {
+        "url_image": "./images/nelson-mandela_copy.jpg",
         "story": "Nelson Rolihlahla Mandela was a South African anti-apartheid revolutionary, political leader, and philanthropist, who served as President of South Africa from 1994 to 1999. In 1988 he was placed under house arrest on the grounds of a minimum-security correctional facility. Mandela was released On February 11, 1990 on order of newly elected president F. W. de Klerk<br>Nelson Mandela died on December 5, 2013 from a recurring lung infection.<br><strong><em>Quote:</em> I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.</strong>",
         "story_title": "Nelson Mandela"
     }
@@ -140,7 +145,7 @@ $(document).ready(function() {
             })
 
             story_count = story_count + 1;
-        }, 12700)
+        }, 16700)
     }
 
     var nextStoryTap = $('#next_story');
